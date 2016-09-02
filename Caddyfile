@@ -1,0 +1,4 @@
+{$FROM} {
+  tls off
+  proxy / {$TO}
+}
